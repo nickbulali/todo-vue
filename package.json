@@ -12,7 +12,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "detect-node": "^2.0.4",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "sass-loader": "^8.0.2",
     "vee-validate": "^3.3.3",
     "vue": "^2.5.2",
